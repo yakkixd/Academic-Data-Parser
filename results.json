@@ -1,0 +1,86 @@
+{
+    "11111111": {
+        "name": "XYZ",
+        "mother_name": "XYZ MOTHER",
+        "father_name": "XYZ FATHER",
+        "school_name": "XYZ SCHOOL",
+        "result": "PASS",
+        "subjects": [
+          {
+            "code": "301",
+            "name": "ENGLISH CORE",
+            "theory": "068",
+            "practical": "020",
+            "total": "088",
+            "grade": "A2"
+          },
+          {
+            "code": "042",
+            "name": "PHYSICS",
+            "theory": "030",
+            "practical": "027",
+            "total": "057",
+            "grade": "C2"
+          },
+          {
+            "code": "043",
+            "name": "CHEMISTRY",
+            "theory": "029",
+            "practical": "027",
+            "total": "056",
+            "grade": "C2"
+          },
+          {
+            "code": "041",
+            "name": "MATHEMATICS",
+            "theory": "036",
+            "practical": "018",
+            "total": "054",
+            "grade": "D1"
+          },
+          {
+            "code": "065",
+            "name": "INFORMATICS PRACTICE",
+            "theory": "057",
+            "practical": "030",
+            "total": "087",
+            "grade": "A2"
+          },
+          {
+            "code": "500",
+            "name": "WORK EXPERIENCE",
+            "theory": "",
+            "practical": "",
+            "total": "--",
+            "grade": "A1"
+          },
+          {
+            "code": "502",
+            "name": "HEALTH & PHYSICAL EDUCATION",
+            "theory": "",
+            "practical": "",
+            "total": "--",
+            "grade": "A1"
+          },
+          {
+            "code": "503",
+            "name": "GENERAL STUDIES",
+            "theory": "",
+            "practical": "",
+            "total": "--",
+            "grade": "A1"
+          }
+        ],
+        "additional_subjects": [
+          {
+            "code": "048",
+            "name": "PHYSICAL EDUCATION",
+            "theory": "053",
+            "practical": "028",
+            "total": "081",
+            "grade": "B1"
+        }
+      ]
+    }
+  }
+  
